@@ -1,5 +1,6 @@
 # InputForm-Assignment-
 -Created a single screen, single activity input form with text fields of Name, Age, DOB (Used Calendar Picker), Address.
+
 -After details are entered, saved  in local DB using Room.the complete flow starting from viewmodel upto repository for database.
 -MVVM Architecture is used for the complete implementation.
 
