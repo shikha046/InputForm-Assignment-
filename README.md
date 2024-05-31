@@ -1,9 +1,8 @@
 # InputForm-Assignment-
-Created a single screen, single activity input form with text fields of Name, Age, DOB (Use
-Calendar Picker), Address. (Use any design)
-After details are entered, saved  in local DB using Room.the complete flow starting from
-viewmodel upto repository for database.
-MVVM Architecture is used for the complete implementation.
+-Created a single screen, single activity input form with text fields of Name, Age, DOB (Used Calendar Picker), Address.
+-After details are entered, saved  in local DB using Room.the complete flow starting from viewmodel upto repository for database.
+-MVVM Architecture is used for the complete implementation.
+
 Brownie Points -
 -test cases written to validate the form.
 -UI written in Jetpack Compose instead of XML.
