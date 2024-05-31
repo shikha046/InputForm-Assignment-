@@ -1,5 +1,5 @@
 # InputForm-Assignment-
-<img src="![Screenshot_20240531_160730](https://github.com/shikha046/InputForm-Assignment-/assets/101914410/00cb9710-d62a-42e8-923d-1f33cb4a15aa)"
+<img src="[Screenshot_20240531_160730](https://github.com/shikha046/InputForm-Assignment-/assets/101914410/00cb9710-d62a-42e8-923d-1f33cb4a15aa)"
 alt=""
 width=300
 style="margin: 10px;" />
